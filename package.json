@@ -1,0 +1,23 @@
+{
+  "name": "@ssdavidai/zobsidian",
+  "version": "0.1.0",
+  "description": "Headless Obsidian with Sync for Zo machines — run Obsidian on a virtual display with VNC access",
+  "bin": {
+    "zobsidian": "./bin/zobsidian.js"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "templates/",
+    "scripts/"
+  ],
+  "keywords": ["zo", "obsidian", "sync", "vnc", "headless", "novnc"],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssdavidai/zobsidian.git"
+  }
+}
