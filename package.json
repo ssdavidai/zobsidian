@@ -1,6 +1,6 @@
 {
   "name": "@ssdavidai/zobsidian",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Headless Obsidian with Sync for Zo machines — run Obsidian on a virtual display with VNC access",
   "bin": {
     "zobsidian": "./bin/zobsidian.js"
